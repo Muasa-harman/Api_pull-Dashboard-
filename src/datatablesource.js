@@ -1,0 +1,2 @@
+users_uri:'https://6270020422c706a0ae70b72c.mockapi.io/lendsqr/api/v1/users';
+users_id_uri:'https://www.google.com/url?q=https://6270020422c706a0ae70b72c.mockapi.io/lendsqr/api/v1/users/:id&sa=D&source=editors&ust=1680341803619013&usg=AOvVaw3i9MnBrMwwCcRcsUZTL0CB'
